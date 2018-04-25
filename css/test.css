@@ -1,0 +1,22 @@
+@charset "UTF-8";
+#box {
+  width: 400px;
+  padding: 20px;
+  border: 1px solid #696969;
+}
+
+body {
+  color: #333;
+  font-family: "メイリオ", "Meiryo", verdana, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Sans-Serif;
+}
+
+.class1 {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #000;
+  background: #228b22;
+  color: #008080;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=test.css.map */

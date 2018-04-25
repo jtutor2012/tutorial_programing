@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,IAAI;EACF,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,iBAAiB;;;ACO3B,IAAI;EACF,KAAK,ECPU,IAAI;EDQnB,WAAW,ECVF,mHAAmH;;;ADa9H,OAAO;EEZL,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,cAAc;EACtB,UAAU,EFUc,OAAO;EET/B,KAAK,EALa,OAAO;EFezB,WAAW,EAAE,IAAI",
+"sources": ["../scss/box.scss","../scss/test.scss","../scss/_variable.scss","../scss/_mixin.scss"],
+"names": [],
+"file": "test.css"
+}

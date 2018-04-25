@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@import "variable";
+@import "mixin";
+@import "box";
+
+
+
+
+
+body{
+  color:$main_font_color;
+  font-family: $main_font;
+}
+
+.class1{
+  @include myBox($bgColor:#228b22);
+  font-weight: bold;
+}

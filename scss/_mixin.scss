@@ -1,0 +1,9 @@
+//Mixin
+
+@mixin myBox($color:#008080, $bgColor:#b0c4de){
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #000;
+  background: $bgColor;
+  color:$color;
+}
